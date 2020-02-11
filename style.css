@@ -1,7 +1,7 @@
 body {
   max-width: 1024px;
   margin: 0 auto;
-  background: url(../rsschool-2019Q1-cv/assets/images/background.jpg);
+  background: url(../rsschool-cv/assets/images/background.jpg);
 }
 
 main {
@@ -84,12 +84,12 @@ h1 {
 }
 
 .icon.phone::before {
-  background: url("../rsschool-2019Q1-cv/assets/images/phone.png");
+  background: url("../rsschool-cv/assets/images/phone.png");
   background-size: cover;
 }
 
 .icon.email::before {
-  background: url("../rsschool-2019Q1-cv/assets/images/email.png");
+  background: url("../rsschool-cv/assets/images/email.png");
   background-size: cover;
 }
 
